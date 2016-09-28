@@ -58,9 +58,8 @@ To run your app on Android:
 
 **[React Native版](https://github.com/ganguo/yingping_rn/blob/master/Yingping.ipa)**
 
-[![image](http://mobike.com/wp-content/themes/mobike/img/appstore.png)](https://itunes.apple.com/cn/app/gan-dou-ying-ping/id922429748?mt=8)
-
-[![bar](http://mobike.com/wp-content/themes/mobike/img/android-badge.png)](http://fusion.qq.com/cgi-bin/qzapps/unified_jump?appid=11240196&isTimeline=false&actionFlag=0&params=pname%3Dio.ganguo.movie%26versioncode%3D3%26channelid%3D%26actionflag%3D0&from=singlemessage&isappinstalled=1)
+[<img src="http://mobike.com/wp-content/themes/mobike/img/appstore.png" width="150">](https://itunes.apple.com/cn/app/gan-dou-ying-ping/id922429748?mt=8)&nbsp;
+[<img src="http://mobike.com/wp-content/themes/mobike/img/android-badge.png" width="150">](http://fusion.qq.com/cgi-bin/qzapps/unified_jump?appid=11240196&isTimeline=false&actionFlag=0&params=pname%3Dio.ganguo.movie%26versioncode%3D3%26channelid%3D%26actionflag%3D0&from=singlemessage&isappinstalled=1)
 
 
 应用预览
