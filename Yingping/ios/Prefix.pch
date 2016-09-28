@@ -1,0 +1,20 @@
+//
+//  Prefix.pch
+//  Yingping
+//
+//  Created by Ron on 6/6/2016.
+//  Copyright © 2016 Facebook. All rights reserved.
+//
+
+#ifndef Prefix_pch
+#define Prefix_pch
+
+@import Foundation;
+@import UIKit;
+
+
+#define SCREEN_WIDTH MIN([UIScreen mainScreen].bounds.size.width,[UIScreen mainScreen].bounds.size.height)
+#define SCREEN_HEIGHT MAX([UIScreen mainScreen].bounds.size.width,[UIScreen mainScreen].bounds.size.height)
+#define RGB(r, g, b) [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:1]
+
+#endif /* Prefix_pch */

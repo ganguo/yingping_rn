@@ -1,0 +1,45 @@
+{
+  "name": "Yingping",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "cross-spawn-async": "^2.2.4",
+    "es6-symbol": "^3.0.2",
+    "fetch-file": "^1.0.1",
+    "graceful-fs": "^4.1.4",
+    "lodash": "^4.13.1",
+    "lodash-node": "^3.10.2",
+    "minimatch": "^3.0.2",
+    "moviereview-reader": "^1.0.2",
+    "react": "^15.1.0",
+    "react-native": "^0.28.0",
+    "react-native-custom-navigation": "^0.2.2",
+    "react-native-drawer": "^2.2.2",
+    "react-native-hud-view": "https://github.com/BOOLRon/react-native-hud-view.git",
+    "react-native-linear-gradient": "^1.5.0",
+    "react-native-material-kit": "https://github.com/xinthink/react-native-material-kit.git",
+    "react-native-navbar": "https://github.com/BOOLRon/react-native-navbar.git",
+    "react-native-parallax-scroll-view": "^0.18.1",
+    "react-native-presenter": "0.0.10",
+    "react-native-progress": "^3.0.0",
+    "react-native-scrollable-tab-view": "https://github.com/skv-headless/react-native-scrollable-tab-view.git",
+    "react-native-star-rating": "https://github.com/BOOLRon/react-native-star-rating.git",
+    "react-native-store": "^0.4.1",
+    "react-native-vector-icons": "^2.0.3",
+    "react-native-video": "^0.8.0",
+    "react-native-webview-bridge": "https://github.com/alinz/react-native-webview-bridge.git",
+    "react-redux": "^4.4.5",
+    "realm": "^0.14.1",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.1.0",
+    "superagent": "^1.8.3",
+    "superagent-bluebird-promise": "^3.0.0"
+  },
+  "devDependencies": {
+    "remote-redux-devtools": "^0.3.3"
+  }
+}

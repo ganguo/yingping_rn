@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+ 
+.icon-play:before { content: '\e800'; } /* '' */
+.icon-pause:before { content: '\e801'; } /* '' */
+.icon-resize-full:before { content: '\e802'; } /* '' */
+.icon-resize-small:before { content: '\e803'; } /* '' */
+.icon-cancel:before { content: '󨃔'; } /* '\e80d4' */
