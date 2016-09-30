@@ -194,6 +194,10 @@ class ShareActionSheet extends Component {
       this.allowShareTypes = [ShareType.Weibo]
     } else {
 
+      //暂时移除分享功能
+      this.allowShareTypes = []
+      return;
+
       ShareManager.getShareTypesSupport('key').then((allShareTypes) => {
 
         let types = []
