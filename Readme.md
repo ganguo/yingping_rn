@@ -1,4 +1,4 @@
-甘豆影评React Native版本  develop by <img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/ganguowx_mp_430" width="100">
+甘豆影评React Native版本  develop by <img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/ganguowx.jpg" width="100">
 ==============
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/ibireme/YYKit/master/LICENSE)
