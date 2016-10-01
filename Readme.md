@@ -2,7 +2,7 @@
 ==============
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/ibireme/YYKit/master/LICENSE)
 
-<img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/ganguowx.jpg" width="300">
+<img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/ganguowx.jpg" width="300">
 
 
 运行环境
@@ -59,8 +59,8 @@ To run your app on Android:
 ==============
 **[React Native版ipa](https://github.com/ganguo/yingping_rn/blob/master/Yingping.ipa)**
 
-<img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/ReactNative/screen-shot1.png" width="320">  <img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/ReactNative/screen-shot2.png" width="320"> <br/>
-<img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/ReactNative/screen-shot3.png" width="320">
+<img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/ReactNative/screen-shot1.png" width="320">  <img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/ReactNative/screen-shot2.png" width="320"> <br/>
+<img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/ReactNative/screen-shot3.png" width="320">
 
 
 甘豆影评原生版
@@ -71,11 +71,11 @@ To run your app on Android:
 
 iPhone
 
-<img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/iPhone/screen-shot1.png" width="320">  <img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/iPhone/screen-shot2.png" width="320"> <br/>
-<img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/iPhone/screen-shot3.png" width="320">
+<img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/iPhone/screen-shot1.png" width="320">  <img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/iPhone/screen-shot2.png" width="320"> <br/>
+<img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/iPhone/screen-shot3.png" width="320">
 
 Android
 
-<img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/Android/screen-shot1.png" width="320">  <img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/Android/screen-shot2.png" width="320"> <br/>
-<img src="https://github.com/ganguo/yingping_rn/blob/master/screen-shot/Android/screen-shot3.png" width="320">
+<img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/Android/screen-shot1.png" width="320">  <img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/Android/screen-shot2.png" width="320"> <br/>
+<img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/Android/screen-shot3.png" width="320">
 
