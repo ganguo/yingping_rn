@@ -22,3 +22,8 @@ allprojects {
         }
     }
 }
+
+ext {
+    reactVersion = '+'
+    buildToolsVersion = '23.0.1'
+}
