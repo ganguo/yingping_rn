@@ -59,6 +59,8 @@ To run your app on Android:
 ==============
 **[React Native版ipa](https://github.com/ganguo/yingping_rn/blob/master/Yingping.ipa)**
 
+**[React Native版apk](https://github.com/ganguo/yingping_rn/blob/master/Yingping.apk)**
+
 <img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/ReactNative/screen-shot1.png" width="320">  <img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/ReactNative/screen-shot2.png" width="320"> <br/>
 <img src="http://oecpe9d21.bkt.clouddn.com/gandou/screen-shot/ReactNative/screen-shot3.png" width="320">
 
